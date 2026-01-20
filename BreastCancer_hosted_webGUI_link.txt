@@ -1,0 +1,6 @@
+Name: OBOH MARKANTHONY AGBOMEKHEI
+Matric Number: 23CG034104
+Machine Learning Algorithm Used: Support Vector Machine (SVM)
+Model Persistence Method: Joblib
+Live URL: https://9m3anfkwpdxsfmhnh36ymm.streamlit.app/
+GitHub Repository: https://github.com/Tigerbros/Titanic-School-Project-
